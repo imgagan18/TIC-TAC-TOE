@@ -27,14 +27,14 @@ h1{
 
 span{
     position: absolute;
-    font-size: 75px;
+    font-size: 74px;
     font-family: sans-serif;
     text-align: center;
     height: 75px;
     width: 75px;
     padding: 0;
-    margin: 5px;
-    margin-left: -35px;
+    margin: 6px;
+    margin-left: -34px;
 }
 
 .top{
@@ -58,7 +58,7 @@ span{
 
 .alert{
     height: 75px;
-    width: 125px;
+    width: 135px;
     display: inline-block;
     background: ghostwhite;
     position: relative;
@@ -78,7 +78,7 @@ span{
 
 button{
     background: dimgray;
-    border-radius: 2px;
+    border-radius: 4px;
     color: ghostwhite;
     border: none;
     outline: none;
@@ -94,7 +94,7 @@ button:focus{
 
 @keyframes larger{
     from{
-        height: 75px;
+        height: 5px;
         width: 125px;
     }
 
